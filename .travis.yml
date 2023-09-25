@@ -1,3 +1,9 @@
 language: ruby
 dist: focal
 script: true
+branches:
+
+  only:
+
+    - main
+    - vl/release/*
