@@ -4,6 +4,4 @@ script: true
 branches:
 
   only:
-
-    - main
-    - vl/release/*
+     - main
